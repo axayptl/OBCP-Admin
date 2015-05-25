@@ -1,0 +1,63 @@
+2014/12/13 12:30:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "TblGeneralMessage".' in C:\wamp\www\yii-framwork\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii-framwork\framework\web\CController.php(270): CController->missingAction('TblGeneralMessa...')
+#1 C:\wamp\www\yii-framwork\framework\web\CWebApplication.php(282): CController->run('TblGeneralMessa...')
+#2 C:\wamp\www\yii-framwork\framework\web\CWebApplication.php(141): CWebApplication->runController('site/TblGeneral...')
+#3 C:\wamp\www\yii-framwork\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\obcp\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/obcp/index.php?r=site/TblGeneralMessage
+HTTP_REFERER=http://localhost/obcp/index.php?r=site/index
+---
+2014/12/13 12:30:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "TblGeneralMessage".' in C:\wamp\www\yii-framwork\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii-framwork\framework\web\CController.php(270): CController->missingAction('TblGeneralMessa...')
+#1 C:\wamp\www\yii-framwork\framework\web\CWebApplication.php(282): CController->run('TblGeneralMessa...')
+#2 C:\wamp\www\yii-framwork\framework\web\CWebApplication.php(141): CWebApplication->runController('site/TblGeneral...')
+#3 C:\wamp\www\yii-framwork\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\obcp\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/obcp/index.php?r=site/TblGeneralMessage
+---
+2014/12/13 12:30:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "tblGeneralMessage".' in C:\wamp\www\yii-framwork\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii-framwork\framework\web\CController.php(270): CController->missingAction('tblGeneralMessa...')
+#1 C:\wamp\www\yii-framwork\framework\web\CWebApplication.php(282): CController->run('tblGeneralMessa...')
+#2 C:\wamp\www\yii-framwork\framework\web\CWebApplication.php(141): CWebApplication->runController('site/tblGeneral...')
+#3 C:\wamp\www\yii-framwork\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\obcp\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/obcp/index.php?r=site/tblGeneralMessage
+HTTP_REFERER=http://localhost/obcp/index.php?r=site/TblGeneralMessage
+---
+2014/12/13 12:30:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "tblGeneralMessage".' in C:\wamp\www\yii-framwork\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii-framwork\framework\web\CController.php(270): CController->missingAction('tblGeneralMessa...')
+#1 C:\wamp\www\yii-framwork\framework\web\CWebApplication.php(282): CController->run('tblGeneralMessa...')
+#2 C:\wamp\www\yii-framwork\framework\web\CWebApplication.php(141): CWebApplication->runController('site/tblGeneral...')
+#3 C:\wamp\www\yii-framwork\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\obcp\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/obcp/index.php?r=site/tblGeneralMessage
+---
+2014/12/13 12:30:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "tblgeneralgessage".' in C:\wamp\www\yii-framwork\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii-framwork\framework\web\CController.php(270): CController->missingAction('tblgeneralgessa...')
+#1 C:\wamp\www\yii-framwork\framework\web\CWebApplication.php(282): CController->run('tblgeneralgessa...')
+#2 C:\wamp\www\yii-framwork\framework\web\CWebApplication.php(141): CWebApplication->runController('site/tblgeneral...')
+#3 C:\wamp\www\yii-framwork\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\obcp\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/obcp/index.php?r=site/tblgeneralgessage
+HTTP_REFERER=http://localhost/obcp/index.php?r=site/tblGeneralMessage
+---
+2014/12/13 12:31:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "tblgeneralgessage".' in C:\wamp\www\yii-framwork\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii-framwork\framework\web\CController.php(270): CController->missingAction('tblgeneralgessa...')
+#1 C:\wamp\www\yii-framwork\framework\web\CWebApplication.php(282): CController->run('tblgeneralgessa...')
+#2 C:\wamp\www\yii-framwork\framework\web\CWebApplication.php(141): CWebApplication->runController('site/tblgeneral...')
+#3 C:\wamp\www\yii-framwork\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\obcp\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/obcp/index.php?r=site/tblgeneralgessage
+---
